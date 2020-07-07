@@ -1,0 +1,126 @@
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataLogic\obj\Debug\DataLogic.pdb

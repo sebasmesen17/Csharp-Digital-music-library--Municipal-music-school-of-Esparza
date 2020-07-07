@@ -1,0 +1,140 @@
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataAccess\obj\Debug\DataAccess.pdb

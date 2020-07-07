@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\Access\bin\Debug\Access.dll
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\Access\bin\Debug\Access.pdb
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\Access\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\Access\obj\Debug\Access.dll
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\Access\obj\Debug\Access.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\Access.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\Access.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\Access.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\obj\Debug\Access.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\Access\obj\Debug\Access.pdb

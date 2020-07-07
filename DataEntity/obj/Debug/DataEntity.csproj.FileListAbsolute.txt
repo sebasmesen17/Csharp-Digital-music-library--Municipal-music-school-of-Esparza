@@ -1,0 +1,22 @@
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataEntity\obj\Debug\DataEntity.pdb

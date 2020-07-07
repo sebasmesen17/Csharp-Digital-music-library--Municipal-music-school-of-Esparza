@@ -1,0 +1,296 @@
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Form1.resources
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\ethan\source\repos\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\ethan\Desktop\Viejo\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\Segunda parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesion.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Eliminar.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\segunda parte\prueba de login\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Eliminar.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.2\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Eliminar.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\TCU escuela música\3parte\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_VisualizarObras.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Eliminar.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_VisualizarObras.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Inicio.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\ethan\Desktop\Soluciones Reciente\Proyecto Analisis\1.5\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Visualizador.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_BuscadorObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarActualizarObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_VisualizadorObra.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela música terminado\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AcercaDe.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AcercaDe.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarActualizarObras.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_VisualizadorObra.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_BuscadorObras.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Inicio.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarActualizarAutores.resources
+C:\Users\Ethan\Desktop\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarAdministrativos.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataPresentation.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataLogic.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.pdb
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\bin\Debug\DataAccess.dll.config
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AcercaDe.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_AgregarObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarActualizarAutores.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarActualizarObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_EliminarAdministrativos.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionEliminar.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_InicioSesionRegistro.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAdministradores.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Frm_RegistroAutores.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_VisualizadorObra.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_BuscadorObras.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.FRM_Inicio.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.Properties.Resources.resources
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.GenerateResource.cache
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.exe
+C:\Users\Sebastián Mesén\Desktop\Escuela musica fin\PruebaEscuelaMusica\DataPresentation\obj\Debug\DataPresentation.pdb
